@@ -1,3 +1,26 @@
 .nav-link{
     margin-left: 30px;
 }
+
+.register:hover{
+    color: white;
+}
+
+/* ===========slider button text======== */
+.get-btn{
+    color: white;
+}
+.get-btn:hover{
+    color: white;
+}
+/* ============explore=========== */
+.explore{
+    background-color: #F4FAFD;
+    ;
+}
+
+/*============== footer=========== */
+.footer-bg{
+    background-color: #000;
+    ;
+}
